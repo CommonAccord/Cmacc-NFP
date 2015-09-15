@@ -1,4 +1,4 @@
-DemoDocName=NFP/MO/ByLaws/Form/ByLaws_01.md
+DemoDocName=Demo/MO_NFP_Benovolent_01.md
 
 Site-Name=Cmacc-NFP
 
@@ -14,6 +14,6 @@ IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{Docum
 
 Introduction.sec=This website is for Not-for-Profit Agreements.
 
-FormDoc.sec=When you click on the first link below, you will see our WIP - NFP Bylaws.</a>.  It is, of course, only an example, intended to be adapted and extended. 
+FormDoc.sec=When you click on the first link below, you will see a deal sheet for organizing a Missouri NFP.  It renders into (generates) Articles and (part of) By-Laws</a>.  It is, of course, only an example, intended to be adapted and extended. 
 
 =[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
