@@ -1,4 +1,4 @@
-Ti=Article III	Board of Directors
+Ti=Board of Directors
 
 1.Ti=Management and Number
 

@@ -1,4 +1,4 @@
-Ti=Article I	Legal Status and Purposes
+Ti=Legal Status and Purposes
 
 1.Ti=Legal Status
 

@@ -9,7 +9,7 @@ Doc.Title=BY-LAWS OF <span style="text-transform: uppercase">{Corp.Name.Full}</s
 4.=[NFP/MO/ByLaws/Sec/ByLaws_Officers_01.md]
 
 
-=[Z/ol-none/4]
+=[Z/ol-II/4]
 
 DocBody={Doc}
 

@@ -1,4 +1,4 @@
-Ti=Article IV	Officers
+Ti=Officers
 
 1.Ti=Officers
 
@@ -35,4 +35,3 @@ Ti=Article IV	Officers
 4.=[Z/ol-none/4]
 
 =[Z/ol/4]
-

@@ -1,4 +1,4 @@
-Ti=Article II 	Offices
+Ti=Offices
 
 1.Ti=Principal Office
 
