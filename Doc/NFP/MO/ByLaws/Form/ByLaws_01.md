@@ -1,4 +1,4 @@
-Doc.Title=BY-LAWS OF <span style="text-transform: uppercase">{Corp.Name.Full}</span>, A MISSOURI NON-MEMBERSHIP NONPROFIT CORPORATION
+Doc.Title=BY-LAWS OF <br><span style="text-transform: uppercase">{Corp.Name.Full}</span><br>A MISSOURI NON-MEMBERSHIP NONPROFIT CORPORATION
 
 1.=[NFP/MO/ByLaws/Sec/ByLaws_Status_01.md]
 

@@ -1,4 +1,4 @@
-Doc.Title=ARTICLES OF INCORPORATION OF <span style="text-transform: uppercase">{Corp.Name.Full}</span>
+Doc.Title=ARTICLES OF INCORPORATION OF<br><span style="text-transform: uppercase">{Corp.Name.Full}</span>
 
 0.sec=The undersigned incorporators of {Corp.Name.Full}, seeking to form a corporation incorporated under the provisions of The General Not For Profit Corporation Act of the State of Missouri (the “Corporation”), for the purpose of adopting the Article of Incorporation of the Corporations, hereby execute, deliver and file these Articles of Incorporation, which shall be duly adopted by the Board of Directors of the Corporation by an Action by Unanimous Consent In Lieu of Special Meeting of Directors.
 
@@ -18,17 +18,17 @@ Doc.Title=ARTICLES OF INCORPORATION OF <span style="text-transform: uppercase">{
 
 4.Ti=ARTICLE IV  Registered Office and Agent
 
-4.sec=The address of the Corporation’s initial registered office in the State of Missouri is {RegisteredOffice.Addr.1,2,3}, and the name of the initial registered agent at that address is {RegisteredAgent.Name.Full}.
+4.sec=The address of the Corporation’s initial registered office in the State of Missouri is {RegisteredOffice.Addr.1,2}, and the name of the initial registered agent at that address is {RegisteredAgent.Name.Full}.
 
 5.Ti=ARTICLE V  Incorporator
 
 5.0.sec=The names and addresses of the incorporators of the Corporation are:
 
-5.1.sec={Incorporator1.Name,Address}
+5.1.sec={Incorporator1.Name.Full}, {Incorporator1.Addr.1,2} 
 
-5.2.sec={Incorporator2.Name,Address}
+5.2.sec={Incorporator2.Name.Full}, {Incorporator2.Addr.1,2} 
 
-5.3.sec={Incorporator3.Name,Address}
+5.3.sec={Incorporator3.Name.Full}, {Incorporator3.Addr.1,2} 
 
 5.=[Z/ol-none/s3]
 
@@ -54,7 +54,7 @@ Doc.Title=ARTICLES OF INCORPORATION OF <span style="text-transform: uppercase">{
 
 90.sec={Affirmation.sec}<br><br><br>{Incorporator1.Sign.Block}
 
-Affirmation.sec=IN AFFIRMATION OF THE FACTS STATED ABOVE, the foregoing Amended and Restated Articles of Incorporation of {Corp.Name.Full} have been executed as of the {Agt.Effective.YMD}.
+Affirmation.sec=IN AFFIRMATION OF THE FACTS STATED ABOVE, the foregoing Amended and Restated Articles of Incorporation of {Corp.Name.Full} have been executed as of the {EffectiveDate.YMD}.
 
 =[Z/ol-none/10]
 

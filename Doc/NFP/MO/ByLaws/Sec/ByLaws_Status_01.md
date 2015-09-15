@@ -2,7 +2,7 @@ Ti=Legal Status and Purposes
 
 1.Ti=Legal Status
 
-1.sec=The name of the corporation shall be {P1.Name.Full} (the “Corporation”).
+1.sec=The name of the corporation shall be {Corp.Name.Full} (the “Corporation”).
 
 2.Ti=Purpose
 

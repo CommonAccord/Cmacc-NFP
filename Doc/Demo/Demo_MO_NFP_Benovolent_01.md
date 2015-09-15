@@ -1,6 +1,30 @@
-Demo:
+Data=:
 
 Corp.Name.Full=Best Practices Benevolence Association
+
+RegisteredOffice.Addr.1,2=111 Main Street, Jefferson City, MO 65101
+
+RegisteredAgent.Name.Full=Corporations Compliance Company, Inc.
+
+Corp.Addr.1=222 Honest Avenue
+
+Corp.Addr.Zip=64101
+
+Corp.=[U/at/USA/MO/Kansas_City/Geo]
+
+Incorporator1.=[U/id/andrea_ang]
+
+Incorporator2.=[U/id/roberta_robinson]
+
+Incorporator3.=[U/id/solomon_shirley]
+
+Articles.EffectiveDate.YMD=September 15, 2015
+
+Incorporator1.Handle=Incorporator
+
+Incorporator1.Sign.YMD=September 14, 2015
+
+Docs=:
 
 Articles.=[NFP/MO/Articles/Form/Articles_01.md]
 
@@ -10,4 +34,4 @@ Model.Root=<ol><li><b>Articles</b><br>{Articles.Model.Root}<li><b>ByLaws</b><br>
 
 Note=Shows use of a common sheet.  
 
-Note=This uses "Deprefixing" so allow all docs to use the details here.  It is also possible to configure this with one file per document, etc.
+Note="Deprefixing," a part of the prototype inheritance model, allows all docs to use the details here despite the fact that the docs are inherited with prefixes.  This is not the only way to organize these docs, but pretty convenient for management of a "closing" binder.
