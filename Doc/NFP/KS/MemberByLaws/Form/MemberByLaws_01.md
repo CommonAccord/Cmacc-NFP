@@ -202,8 +202,6 @@ NOTE="OR" - not clear to me whether this last section replaces all of the above 
 
 6.=[Z/ol/4]
 
-=[Z/ol/6]
-
 =Article VII	Meetings of Directors
 
 =Section 1.  Meetings.  The Board of Directors shall hold its meetings at such times and places as a majority of the Directors in office determine but at least four times per year.  Meetings will be held at the principal office of the Corporation unless otherwise provided by the Board or at such other place as may be designated from time to time by resolution of the Board of Directors.  [STUDENTS: ADJUST ACCORDING TO YOUR CLIENT’S NEEDS.]
@@ -303,3 +301,7 @@ NOTE="OR" - not clear to me whether this last section replaces all of the above 
 =Article XVI      Statement of Non-Discrimination
 
 =	The Corporation allows participation in its activities, services, events and programs by persons of any race, color, national or ethnic origin, religion or gender. It does not discriminate on the basis of race, color, national or ethnic origin, religion or gender.
+  
+=[Z/ol/6]
+
+DocBody={Doc}
