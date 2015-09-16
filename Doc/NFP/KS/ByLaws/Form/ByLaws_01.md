@@ -31,11 +31,11 @@ Doc.Title=BY-LAWS OF {Corp.Name.Full}, A NONPROFIT CORPORATION<br>{EffectiveDate
 
 2.1.Ti=Principal Office
 
-2.1.sec=The principal office and place of business of the Corporation shall be at ADDRESS, or at such other place in Kansas, as may be designated from time to time by the Board of Directors.
+2.1.sec=The principal office and place of business of the Corporation shall be at {Corp.Addr.1,2}, or at such other place in Kansas, as may be designated from time to time by the Board of Directors.
 
 2.2.Ti=Registered Office and Registered Agent
 
-2.2.sec=The registered office shall be located at {Corp.Addr.1,2} and the name of the initial resident agent at that address is {RegisteredAgent.Name.Full}, unless otherwise established by the Board of Directors.
+2.2.sec=The registered office shall be located at {RegisteredOffice.Addr.1,2} and the name of the initial resident agent at that address is {RegisteredAgent.Name.Full}, unless otherwise established by the Board of Directors.
 
 2.=[Z/ol/2]
 
@@ -138,7 +138,7 @@ NOTE="OR" - not clear to me whether this last section replaces all of the above 
 
 5.7.1.sec=Vacancies on the Board of Directors shall exist (1) on the death, resignation, disqualification or removal of any director, and (2) whenever the number of authorized directors is increased.  Any Director may resign effective upon giving written notice to the President, the Secretary, or the Board of Directors, unless the notice specifies a later time for the effectiveness of such resignation.
 
-5.7.2.sec=Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be temporarily filled by the President of the Board of Directors.  If the number of Directors then in office is less than a quorum, a vacancy on the Board may be filled by appointment by the President of the Board of Directors, or if none by a majority of the of the Board of Directors.  A Director elected to fill a vacancy on the Board shall serve until thenext meeting of the membership, at which he or she must stand for election.
+5.7.2.sec=Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be temporarily filled by the President of the Board of Directors.  If the number of Directors then in office is less than a quorum, a vacancy on the Board may be filled by appointment by the President of the Board of Directors, or if none by a majority of the of the Board of Directors.  A Director elected to fill a vacancy on the Board shall serve until the next meeting of the membership, at which he or she must stand for election.
 
 5.7.=[Z/ol-none/s2]
 
