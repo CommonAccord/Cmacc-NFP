@@ -1,4 +1,4 @@
-Doc.Title=BY-LAWS OF {Corp.Name.Full}, A NONPROFIT CORPORATION<br>{EffectiveDate.YMD}
+Doc.Title=BY-LAWS OF<br><span style="text-transform: uppercase">{Corp.Name.Full}</span><br>A NONPROFIT CORPORATION<br>{EffectiveDate.YMD}
 
 1.Ti=Legal Status and Purposes
 

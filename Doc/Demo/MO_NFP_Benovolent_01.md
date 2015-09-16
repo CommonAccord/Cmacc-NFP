@@ -22,9 +22,11 @@ Incorporator1.Handle=Incorporator
 
 Incorporator1.Sign.YMD=September 14, 2015
 
-Articles.EffectiveDate.YMD=September 15, 2015
+Articles.EffectiveDate.YMD=September 14, 2015
 
-Conflict.EffectiveDate.YMD=September 14, 2015
+ByLaws.EffectiveDate.YMD=September 15, 2015
+
+Conflict.EffectiveDate.YMD=September 16, 2015
 
 
 Docs=:
