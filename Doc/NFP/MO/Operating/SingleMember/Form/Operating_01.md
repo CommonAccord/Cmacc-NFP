@@ -1,16 +1,16 @@
 Doc.Title=OPERATING AGREEMENT <br>OF<br><span style="text-transform:uppercase">{Corp.Name.Full}<br>A MISSOURI LIMITED LIABILITY COMPANY<br>EFFECTIVE AS OF {EffectiveDate.YMD} 
 
 				
-0.0.sec=THIS DECLARATION OF OPERATING AGREEMENT is made and entered into as of the ____ day of _____________, ____ by _____________, as the sole member.
+0.0.sec=THIS DECLARATION OF OPERATING AGREEMENT is made and entered into as of {EffectiveDate.YMD} by {Member.Name.Full}, as the sole member.
 
 
 0.1.Ti=RECITALS
 
-0.1.1.sec=__________________ desires to organize a limited liability company to engage in the business of _______________________________________, engaging in all activities incident thereto and transacting such other business and activities as may be approved by the Member.
+0.1.1.sec={Member.Name.Full} desires to organize a limited liability company to engage in the business of _______________________________________, engaging in all activities incident thereto and transacting such other business and activities as may be approved by the Member.
 
-0.1.2.sec=This Agreement sets forth ____________________'s understanding with respect to the organization and operation of the limited liability company and the scope and conduct of its business.
+0.1.2.sec=This Agreement sets forth {Member.Name.Full}'s understanding with respect to the organization and operation of the limited liability company and the scope and conduct of its business.
 
-0.1.90.sec=NOW, THEREFORE, in consideration of the receipt of all of the outstanding interests in the limited liability company, __________________ hereby declares as follows:
+0.1.90.sec=NOW, THEREFORE, in consideration of the receipt of all of the outstanding interests in the limited liability company, {Member.Name.Full} hereby declares as follows:
 
 0.1.=[Z/ol-none/s1]
 
@@ -22,7 +22,7 @@ Doc.Title=OPERATING AGREEMENT <br>OF<br><span style="text-transform:uppercase">{
 
 1.1.1.sec=The Member hereby ratifies, approves, and confirms all documents executed, acknowledged, and/or delivered and all acts, agreements, purchases, and other actions, if any, done by the Member prior to the Effective Date in connection with the formation of the Company.
 
-1.1.2.sec={The_Member/The Manager} is hereby authorized and directed to do or cause to be done on behalf of the Company all such actions (including the payment of fees, expenses, the purchase price for properties, or any other costs) and to make, execute, and/or deliver or cause to be made, executed, and/or delivered all such contracts, instruments, documents, agreements, writings, or communications as {the_Member/the_Manager}, in {his/her/its} discretion, deems necessary, advisable, or appropriate for the Company to (1) begin or continue the Business of the Company, and all matters related thereto, and (2) negotiate, enter into, and consummate financing to acquire property, including negotiating and entering into a loan commitment, promissory note, mortgage deed of trust, and such other loan documents as are necessary or appropriate to evidence and secure such financing. 
+1.1.2.sec={The_Member/The Manager} is hereby authorized and directed to do or cause to be done on behalf of the Company all such actions (including the payment of fees, expenses, the purchase price for properties, or any other costs) and to make, execute, and/or deliver or cause to be made, executed, and/or delivered all such contracts, instruments, documents, agreements, writings, or communications as {the_Member/the_Manager}, in {Manager.his/her} discretion, deems necessary, advisable, or appropriate for the Company to (1) begin or continue the Business of the Company, and all matters related thereto, and (2) negotiate, enter into, and consummate financing to acquire property, including negotiating and entering into a loan commitment, promissory note, mortgage deed of trust, and such other loan documents as are necessary or appropriate to evidence and secure such financing. 
 
 1.1.=[Z/ol-AA/s2]
 
@@ -50,11 +50,11 @@ Note=[OPTIONAL]?
 
 1.7.Ti=Principal Place of Business
 
-1.7.sec=The principal place of business of the Company shall be located at the {Member's/Manager’s} address as set forth above, or such other location as the {Member\Manager} may hereafter determine.
+1.7.sec=The principal place of business of the Company shall be located at the {Member's/Manager’s} address as set forth above, or such other location as the {Member/Manager} may hereafter determine.
 
 1.8.Ti=Domestic Registered Agent and Registered Office
 
-1.8.sec=The name of the Company’s registered agent for service of process in Missouri and its registered office in Missouri shall be {RegisteredAgent.Name.Full}, {RegisteredAgent.Addr.1,2}.  The {Member\Manager} may change such registered agent and/or registered office, at any time, by making all appropriate filings.
+1.8.sec=The name of the Company’s registered agent for service of process in Missouri and its registered office in Missouri shall be {RegisteredAgent.Name.Full}, {RegisteredAgent.Addr.1,2}.  The {Member/Manager} may change such registered agent and/or registered office, at any time, by making all appropriate filings.
 
 1.9.Ti=Certain Definitions
 
@@ -103,7 +103,7 @@ Note=[OPTIONAL]?
 
 2.1.1.sec=Pursuant to a special warranty deed, a blanket conveyance, bill of sale and assignment, and related assignment and conveyance documents (as may be applicable) all of even date herewith, the Member has contributed the property and the other assets described on Exhibit A to the Company.
 
-2.1.2.sec=The Member may, in the exercise of his/her/its sole and absolute discretion, from time to time contribute, either directly or through employees, agents, and/or officers (or their equivalent) of the Member or its affiliate, labor or administrative services in connection with the routine conduct of the Business and the development and maintenance of the Company and make additional capital contributions from time to time to pay routine operating expenses incurred by the Company, with respect to the Business; PROVIDED, HOWEVER, that, the Member shall not be obligated to make contributions to the capital of the Company for Extraordinary Losses or other usual or unusual or non-reoccurring costs or expenses without the prior written consent of the Member, which may be given or withheld in his sole and absolute discretion.
+2.1.2.sec=The Member may, in the exercise of {Member.his/her} sole and absolute discretion, from time to time contribute, either directly or through employees, agents, and/or officers (or their equivalent) of the Member or its affiliate, labor or administrative services in connection with the routine conduct of the Business and the development and maintenance of the Company and make additional capital contributions from time to time to pay routine operating expenses incurred by the Company, with respect to the Business; PROVIDED, HOWEVER, that, the Member shall not be obligated to make contributions to the capital of the Company for Extraordinary Losses or other usual or unusual or non-reoccurring costs or expenses without the prior written consent of the Member, which may be given or withheld in his sole and absolute discretion.
 
 2.1.=[Z/ol-AA/s2]
 
@@ -135,7 +135,7 @@ Note=[OPTIONAL]?
 
 Note=[if accrual basis --- "principles" should be used instead of "practice"]
 
-5.1.1.sec=The Company's books, financial statements, and records shall be prepared in accordance with generally accepted accounting {practices\principals}, consistently applied.  The Company shall use the cash or accrual method of accounting, as determined by the {Manager\Member} and permitted by applicable tax law.  All federal, state, and local statements and records of the Company shall be prepared by the Member or a firm selected by the {Manager\Member}.
+5.1.1.sec=The Company's books, financial statements, and records shall be prepared in accordance with generally accepted accounting {practices/principles}, consistently applied.  The Company shall use the cash or accrual method of accounting, as determined by the {Member/Manager} and permitted by applicable tax law.  All federal, state, and local statements and records of the Company shall be prepared by the Member or a firm selected by the {Member/Manager}.
 
 5.1.2.sec=The Company shall comply with all recordkeeping requirements imposed by the Act.  The Company shall maintain its books, records, and financial statements separate from those of any other Person.
 
@@ -187,11 +187,11 @@ Note=[Choose one of the following for one or more Managers:]  (A little unclear 
 
 6.2.sec=In addition to the limitations set forth elsewhere herein, the Company shall not incur any indebtedness without the prior written approval of __________________ in {Manager.his/her} capacity as the Member.
 
-6.3.Ti=Liability and Indemnification of the {Member\Manager} and Affiliates.
+6.3.Ti=Liability and Indemnification of the {Member/Manager} and Affiliates.
 
-6.3.1.sec=(A)   Neither the {Member\Manager} nor any Affiliate of the {Member\Manager} shall be liable, responsible, or accountable in damages or otherwise to the Company or to the Member for any action taken or failure to act on behalf of the Company unless such action or omission was an intentional breach of this Agreement or constituted gross negligence, bad faith, or wanton or willful misconduct (collectively, "Misconduct").
+6.3.1.sec=(A)   Neither the {Member/Manager} nor any Affiliate of the {Member/Manager} shall be liable, responsible, or accountable in damages or otherwise to the Company or to the Member for any action taken or failure to act on behalf of the Company unless such action or omission was an intentional breach of this Agreement or constituted gross negligence, bad faith, or wanton or willful misconduct (collectively, "Misconduct").
 
-6.3.2.sec=(B)	Except with respect to Misconduct, the Company shall, to the fullest extent permitted under the Act, indemnify and hold harmless the {Member\Manager} and his her its Affiliates from any loss, damage, liability, or expense incurred or sustained by them by reason of any act performed or any omission for or on behalf of the Company or in furtherance of the interests of the Company, including any judgment, award, settlement, reasonable attorneys' fees, and other costs and expenses (which may be advanced by the Company) incurred in connection with the defense of any actual or threatened action, proceeding, or claim.
+6.3.2.sec=(B)	Except with respect to Misconduct, the Company shall, to the fullest extent permitted under the Act, indemnify and hold harmless the {Member/Manager} and his her its Affiliates from any loss, damage, liability, or expense incurred or sustained by them by reason of any act performed or any omission for or on behalf of the Company or in furtherance of the interests of the Company, including any judgment, award, settlement, reasonable attorneys' fees, and other costs and expenses (which may be advanced by the Company) incurred in connection with the defense of any actual or threatened action, proceeding, or claim.
 
 6.3.=[Z/ol-AA/s2]
 
@@ -201,11 +201,11 @@ Note=[Choose one of the following for one or more Managers:]  (A little unclear 
 
 6.5.Ti=Liability for Company Debts and Obligations
 
-6.5.sec=The {Member\Member_and_the_Manager} shall not be personally liable for any of the expenses, liabilities, or obligations of the Company except to the extent expressly provided in an agreement executed by the Member there evidencing his her its their agreement to be personally liable for such expenses, liabilities, or obligations.
+6.5.sec=The {Member/Member_and_the_Manager} shall not be personally liable for any of the expenses, liabilities, or obligations of the Company except to the extent expressly provided in an agreement executed by the Member there evidencing his her its their agreement to be personally liable for such expenses, liabilities, or obligations.
 
 6.6.Ti=Company Obligations
 
-6.6.sec=To the extent this Agreement imposes duties and obligations upon the Company, the {Member\Manager} and {Member\Manager.his/her} successors-in-interest shall take such actions or cause the Company to take such actions as may be necessary or appropriate to cause the Company to fulfill its duties and obligations hereunder; PROVIDED, HOWEVER, nothing in this Section shall be construed to relieve or expand any obligation of the Member as set forth in this Agreement.
+6.6.sec=To the extent this Agreement imposes duties and obligations upon the Company, the {Member/Manager} and {Member/Manager.his/her} successors-in-interest shall take such actions or cause the Company to take such actions as may be necessary or appropriate to cause the Company to fulfill its duties and obligations hereunder; PROVIDED, HOWEVER, nothing in this Section shall be construed to relieve or expand any obligation of the Member as set forth in this Agreement.
 
 6.=[Z/ol/6]
 
@@ -225,7 +225,7 @@ Note=[Choose one of the following for one or more Managers:]  (A little unclear 
 
 7.2.Ti=Distribution of Proceeds on Dissolution; Winding Up; Reserves.
 
-7.2.1.sec=(A)  Upon the decision to dissolve, the Company shall continue solely for the purposes of winding up its affairs in an orderly manner, satisfying the claims of its creditors, and liquidating its assets, and the {Member\Manager} shall not take any action that is inconsistent with or unnecessary to the winding up of the Company's business and affairs.  To the extent not inconsistent with the foregoing, all covenants and obligations in this Agreement shall continue in full force and effect until such time as the Dissolution Proceeds have been distributed pursuant to this Section and the Company has filed articles of termination.
+7.2.1.sec=(A)  Upon the decision to dissolve, the Company shall continue solely for the purposes of winding up its affairs in an orderly manner, satisfying the claims of its creditors, and liquidating its assets, and the {Member/Manager} shall not take any action that is inconsistent with or unnecessary to the winding up of the Company's business and affairs.  To the extent not inconsistent with the foregoing, all covenants and obligations in this Agreement shall continue in full force and effect until such time as the Dissolution Proceeds have been distributed pursuant to this Section and the Company has filed articles of termination.
 
 7.2.2.0.sec=(B)   The Member or, if there is no Member, the Member's successor-in-interest (in either case, the "Winding-Up Person") shall be responsible for overseeing the winding up and liquidation of the Company.  As soon as reasonably practical after the occurrence of a Liquidation Event, the Winding-Up Person shall file a notice of winding up and take such other actions as are required under the Act to dispose or make provision for the known and unknown claims against the Company.  After filing the notice of winding up, the Winding-Up Person shall take full account of the Company's liabilities and business property, cause business property to be liquidated as promptly as is consistent with obtaining the fair value thereof, and shall cause the proceeds therefrom and any other assets and funds of the Company (collectively, the "Dissolution Proceeds"), to the extent sufficient therefor, to be applied and distributed in the following order:
 
@@ -249,7 +249,7 @@ Note=[Choose one of the following for one or more Managers:]  (A little unclear 
 
 8.1.Ti=Duration of Agreement; Amendments
 
-8.1.sec=This Agreement may be amended only by a written agreement executed by the Member which specifically and expressly states that it is an amendment to this Agreement.  In the event the Member transfers all or any portion of his/her/its Interest to any Person and such Person then becomes a Member pursuant to a writing executed and delivered by the transferor Member contemporaneously with such transferor, which expressly states that such transferee is to be a Member of the Company, this Agreement shall (1) automatically terminate and become of no force and effect if there is then more than one Member, or (2) if there is then only one Member, terminate upon the earlier to occur of (a) thirty (30) days after the date of such transfer, or (b) the date the Member executes a new operating agreement which conforms with the Act.
+8.1.sec=This Agreement may be amended only by a written agreement executed by the Member which specifically and expressly states that it is an amendment to this Agreement.  In the event the Member transfers all or any portion of {Member.his/her} Interest to any Person and such Person then becomes a Member pursuant to a writing executed and delivered by the transferor Member contemporaneously with such transferor, which expressly states that such transferee is to be a Member of the Company, this Agreement shall (1) automatically terminate and become of no force and effect if there is then more than one Member, or (2) if there is then only one Member, terminate upon the earlier to occur of (a) thirty (30) days after the date of such transfer, or (b) the date the Member executes a new operating agreement which conforms with the Act.
 
 8.2.Ti=Miscellaneous
 
