@@ -6,7 +6,7 @@ Doc.Title=OPERATING AGREEMENT <br>OF<br><span style="text-transform:uppercase">{
 
 0.1.Ti=RECITALS
 
-0.1.1.sec={Member.Name.Full} desires to organize a limited liability company to engage in the business of _______________________________________, engaging in all activities incident thereto and transacting such other business and activities as may be approved by the Member.
+0.1.1.sec={Member.Name.Full} desires to organize a limited liability company to engage in the business of {Corp.InTheBusinessOf}, engaging in all activities incident thereto and transacting such other business and activities as may be approved by the Member.
 
 0.1.2.sec=This Agreement sets forth {Member.Name.Full}'s understanding with respect to the organization and operation of the limited liability company and the scope and conduct of its business.
 
@@ -32,11 +32,13 @@ Doc.Title=OPERATING AGREEMENT <br>OF<br><span style="text-transform:uppercase">{
 
 1.3.Ti=Term
 
-1.3.sec=The term of the Company shall commence with the filing of the Articles of Organization [or other date] and continue until the winding up and liquidation of the Company following a Liquidation Event, as provided in Article VII.
+1.3.sec=The term of the Company shall commence with {TermCommence.cl} and continue until the winding up and liquidation of the Company following a Liquidation Event, as provided in Article VII.
+
+TermCommence.cl=the filing of the Articles of Organization
 
 1.4.Ti=Character of Business
 
-1.4.sec=The business of the Company (the “Business”) is to (1) {Corp.BusinessDescription}, (2) finance, hold, manage, sell, or otherwise dispose of all or any part of business property, and (3) exercise all rights and powers and engage in all activities related or ancillary to the foregoing which a limited liability company may legally exercise pursuant to the Act.
+1.4.sec=The business of the Company (the “Business”) is to (1) {Corp.BusinessIsTo}, (2) finance, hold, manage, sell, or otherwise dispose of all or any part of business property, and (3) exercise all rights and powers and engage in all activities related or ancillary to the foregoing which a limited liability company may legally exercise pursuant to the Act.
 
 1.5.Ti=Name and Address of the Member
 
@@ -68,13 +70,13 @@ Note=[OPTIONAL]?
 
 1.9.4.sec=“Code”  means the Internal Revenue Code of 1986, as amended from time to time
 
-1.9.5.sec=(E)	"Company" means this limited liability company
+1.9.5.sec="Company" means this limited liability company
 
-1.9.6.sec=(F)   “Extraordinary Loss" means any sum paid or payable by the Company to (1) defend, settle, or compromise any threatened, pending or completed action, suit, or proceeding against the Company, whether civil, criminal, administrative, or investigative, including punitive or exemplary damages or any loss resulting from any Member's or Manager's Misconduct, (2) discharge any judgment entered therein, and (3) pay all legal fees and other expenses incurred by the Company in connection therewith.
+1.9.6.sec=“Extraordinary Loss" means any sum paid or payable by the Company to (1) defend, settle, or compromise any threatened, pending or completed action, suit, or proceeding against the Company, whether civil, criminal, administrative, or investigative, including punitive or exemplary damages or any loss resulting from any Member's or Manager's Misconduct, (2) discharge any judgment entered therein, and (3) pay all legal fees and other expenses incurred by the Company in connection therewith.
 
-1.9.7.sec=(G)	"Member" means {Member.Name,Address}.
+1.9.7.sec="Member" means {Member.Name,Address}.
 
-1.9.8.0.sec=(H)	"Operating Proceeds" for the applicable period means all cash receipts of the Company during such period (excluding Dissolution Proceeds) plus the amount of any cash released from Company reserves during such period, less the following costs and expenses paid during such period (to the extent not paid from reserves): 
+1.9.8.0.sec="Operating Proceeds" for the applicable period means all cash receipts of the Company during such period (excluding Dissolution Proceeds) plus the amount of any cash released from Company reserves during such period, less the following costs and expenses paid during such period (to the extent not paid from reserves): 
 
 1.9.8.1.sec=cash operating expenses,
 
@@ -83,7 +85,7 @@ Note=[OPTIONAL]?
 
 1.9.8.3.sec=cash expenditures for repairs, supplies, capital improvements, investments in assets, and other capital items, and
 
-1.9.8.4.sec=any additions to Company reserves which the Member [Manager] causes the Company to make.
+1.9.8.4.sec=any additions to Company reserves which the {Member/Manager} causes the Company to make.
 
 1.9.8.=[Z/ol-a/s4]
 
@@ -165,27 +167,36 @@ Note=[if accrual basis --- "principles" should be used instead of "practice"]
 
 6.1.Alt2.Ti=Management Authority and Duties of Manager.
 
-6.1.Alt2.1.sec=(A)	Subject to Section 6.2, the overall management and control of the Company and the Business shall be vested in the Manager, who shall have the exclusive right, authority, and responsibility to participate in the management of the business and affairs of the Company and to enter into transactions on behalf of the Company within the scope of the Business; PROVIDED, HOWEVER, that the Manager may [(l) designate one or the other to act alone in respect of any Company matter or determination, and (2)] delegate to third parties ministerial authority to conduct or participate in the day-to-day operations of the Company.  Pursuant to the foregoing and subject to the other provisions hereof, the Member shall have all of the rights and powers of a member as provided under the Act and as otherwise provided by law.
+6.1.Alt2.1.sec=Subject to Section 6.2, the overall management and control of the Company and the Business shall be vested in the Manager, who shall have the exclusive right, authority, and responsibility to participate in the management of the business and affairs of the Company and to enter into transactions on behalf of the Company within the scope of the Business; PROVIDED, HOWEVER, that the Manager may {DelegationOption.cl} delegate to third parties ministerial authority to conduct or participate in the day-to-day operations of the Company.  Pursuant to the foregoing and subject to the other provisions hereof, the Member shall have all of the rights and powers of a member as provided under the Act and as otherwise provided by law.
+
+Note=Something in this clause confuses me. JGH
+
+DelegationOption.cl=(l) designate one or the other to act alone in respect of any Company matter or determination, and (2)
 
 Note=[Choose one of the following for one or more Managers:]  (A little unclear about choice here.)
 
-6.1.Alt2.2.sec=(B)	There shall at all times during the term of the Company be one Manager. _____________ is hereby appointed as the initial Manager.  The 	Manager shall discharge his duties as Manager until (1) a Replacement Event occurs, and (2) a successor Manager is appointed.  A Manager may resign as such at any time.  A Manager may be removed at any time by a decision to do so approved by the Member.  In the event of the resignation, dissolution, death, removal, incapacity, or inability to act of a Manager (each a "Replacement Event'), another Person shall be appointed as successor Manager by the Member.  Upon the appointment of a successor Manager in accordance with this Paragraph, the Manager or his legal representative shall execute such documents and take such action as may be required to permit the successor Manager to act as a Manager in accordance with the provisions hereof.
 
-6.1.Alt2.3.sec=(C)	There shall at all times during the term of the Company be two Managers. _________________ and __________________ are hereby appointed as the initial Managers. Each Manager shall discharge his duties as Manager until (1) a Replacement Event occurs, and (2) a successor Manager is appointed.  A Manager may resign as such at any time.  A Manager may be removed at any time by a decision to do so approved by the Member.  In the event of the resignation, dissolution, death, removal, incapacity, or inability to act of a Manager (each a "Replacement Event"), another Person shall be appointed as successor Manager by the Member.  Upon the appointment of a successor Manager in accordance with this Paragraph, the Manager or his legal representative shall execute such documents and take such action as may be required to permit the successor Manager to act as a Manager in accordance with the provisions hereof. {6.1.Alt2.3.Option?}
+6.1.Alt2.2.Alt1.sec=There shall at all times during the term of the Company be one Manager. {Manager.Name.Full} is hereby appointed as the initial Manager.  The 	Manager shall discharge {Manager.his/her} duties as Manager until (1) a Replacement Event occurs, and (2) a successor Manager is appointed.  A Manager may resign as such at any time.  A Manager may be removed at any time by a decision to do so approved by the Member.  In the event of the resignation, dissolution, death, removal, incapacity, or inability to act of a Manager (each a "Replacement Event'), another Person shall be appointed as successor Manager by the Member.  Upon the appointment of a successor Manager in accordance with this Paragraph, the Manager or {Manager.his/her} legal representative shall execute such documents and take such action as may be required to permit the successor Manager to act as a Manager in accordance with the provisions hereof.
 
-6.1.Alt2.3.Option?=6.1.Alt2.3.Option?={Null} or 6.1.Alt2.3.Option {6.1.Alt2.3.Option}
+6.1.Alt2.2.Alt2.sec=There shall at all times during the term of the Company be two Managers. {Manager1.Name.Full} and {Manager2.Name.Full} are hereby appointed as the initial Managers. Each Manager shall discharge his duties as Manager until (1) a Replacement Event occurs, and (2) a successor Manager is appointed.  A Manager may resign as such at any time.  A Manager may be removed at any time by a decision to do so approved by the Member.  In the event of the resignation, dissolution, death, removal, incapacity, or inability to act of a Manager (each a "Replacement Event"), another Person shall be appointed as successor Manager by the Member.  Upon the appointment of a successor Manager in accordance with this Paragraph, the Manager or his legal representative shall execute such documents and take such action as may be required to permit the successor Manager to act as a Manager in accordance with the provisions hereof. {ApprovalOfBothManagers?}
 
-6.1.Alt2.3.Option=Except for actions described in section 1.1 (C) (which may be taken by either Manager), any act or decision by the Managers shall require the approval of both Managers.
+ApprovalOfBothManagers?=ApprovalOfBothManagers? make either (Null) or "ApprovalOfBothManagers" {ApprovalOfBothManagers}
+
+ApprovalOfBothManagers=Except for actions described in section 1.1 (C) (which may be taken by either Manager), any act or decision by the Managers shall require the approval of both Managers.
+
+6.1.Alt2.2.SecName=6.1.Alt2.2
+
+6.1.Alt2.2.=[Z/Alt/2]
 
 6.1.SecName=6.1
 
-6.1.Alt2.=[Z/ol-AA/s3]
+6.1.Alt2.=[Z/ol-AA/s2]
 
 6.1.=[Z/Alt/2]
 
 6.2.Ti=Restrictions on Borrowing
 
-6.2.sec=In addition to the limitations set forth elsewhere herein, the Company shall not incur any indebtedness without the prior written approval of __________________ in {Manager.his/her} capacity as the Member.
+6.2.sec=In addition to the limitations set forth elsewhere herein, the Company shall not incur any indebtedness without the prior written approval of {Member.Name.Full} in {Member.his/her} capacity as the Member.
 
 6.3.Ti=Liability and Indemnification of the {Member/Manager} and Affiliates.
 
@@ -215,29 +226,29 @@ Note=[Choose one of the following for one or more Managers:]  (A little unclear 
 
 7.1.0.sec=No act, thing, occurrence, event, or circumstance shall cause or result in the dissolution of the Company except that the earliest to occur of any of the following events (a “Liquidation Event”) shall work an immediate dissolution of the Company:
 
-7.1.1.sec=(A)    The unanimous agreement in writing by all the Members not then in default hereunder to dissolve and terminate the Company;
+7.1.1.sec=The unanimous agreement in writing by all the Members not then in default hereunder to dissolve and terminate the Company;
 
-7.1.2.sec=(B)  Subject to Paragraph (C) below and upon the approval or consent of the Member, after the occurrence of any event (each, a “Dissociation Event”) described in Section 347.123 of the Act occurring with respect to the Member; PROVIDED HOWEVER, that the events described in Section 347.123(4) or (5) of the Act shall not be deemed to be Dissolution Events, and provided, however, that upon the occurrence of any event listed in Section 347.123(6) of the Act, the Member’s successor-in-interest may become the Member, with full rights and responsibilities of the Member, including the power to decide not to dissolve.
+7.1.2.sec=Subject to Paragraph (C) below and upon the approval or consent of the Member, after the occurrence of any event (each, a “Dissociation Event”) described in Section 347.123 of the Act occurring with respect to the Member; PROVIDED HOWEVER, that the events described in Section 347.123(4) or (5) of the Act shall not be deemed to be Dissolution Events, and provided, however, that upon the occurrence of any event listed in Section 347.123(6) of the Act, the Member’s successor-in-interest may become the Member, with full rights and responsibilities of the Member, including the power to decide not to dissolve.
 
 7.1.=[Z/ol-AA/s2]
 
-7.1.3.sec=(C)  Upon the occurrence of a Dissociation Event with respect to the sole remaining Member.
+7.1.3.sec=Upon the occurrence of a Dissociation Event with respect to the sole remaining Member.
 
 7.2.Ti=Distribution of Proceeds on Dissolution; Winding Up; Reserves.
 
-7.2.1.sec=(A)  Upon the decision to dissolve, the Company shall continue solely for the purposes of winding up its affairs in an orderly manner, satisfying the claims of its creditors, and liquidating its assets, and the {Member/Manager} shall not take any action that is inconsistent with or unnecessary to the winding up of the Company's business and affairs.  To the extent not inconsistent with the foregoing, all covenants and obligations in this Agreement shall continue in full force and effect until such time as the Dissolution Proceeds have been distributed pursuant to this Section and the Company has filed articles of termination.
+7.2.1.sec=Upon the decision to dissolve, the Company shall continue solely for the purposes of winding up its affairs in an orderly manner, satisfying the claims of its creditors, and liquidating its assets, and the {Member/Manager} shall not take any action that is inconsistent with or unnecessary to the winding up of the Company's business and affairs.  To the extent not inconsistent with the foregoing, all covenants and obligations in this Agreement shall continue in full force and effect until such time as the Dissolution Proceeds have been distributed pursuant to this Section and the Company has filed articles of termination.
 
-7.2.2.0.sec=(B)   The Member or, if there is no Member, the Member's successor-in-interest (in either case, the "Winding-Up Person") shall be responsible for overseeing the winding up and liquidation of the Company.  As soon as reasonably practical after the occurrence of a Liquidation Event, the Winding-Up Person shall file a notice of winding up and take such other actions as are required under the Act to dispose or make provision for the known and unknown claims against the Company.  After filing the notice of winding up, the Winding-Up Person shall take full account of the Company's liabilities and business property, cause business property to be liquidated as promptly as is consistent with obtaining the fair value thereof, and shall cause the proceeds therefrom and any other assets and funds of the Company (collectively, the "Dissolution Proceeds"), to the extent sufficient therefor, to be applied and distributed in the following order:
+7.2.2.0.sec=The Member or, if there is no Member, the Member's successor-in-interest (in either case, the "Winding-Up Person") shall be responsible for overseeing the winding up and liquidation of the Company.  As soon as reasonably practical after the occurrence of a Liquidation Event, the Winding-Up Person shall file a notice of winding up and take such other actions as are required under the Act to dispose or make provision for the known and unknown claims against the Company.  After filing the notice of winding up, the Winding-Up Person shall take full account of the Company's liabilities and business property, cause business property to be liquidated as promptly as is consistent with obtaining the fair value thereof, and shall cause the proceeds therefrom and any other assets and funds of the Company (collectively, the "Dissolution Proceeds"), to the extent sufficient therefor, to be applied and distributed in the following order:
 
-7.2.2.1.sec=(1)    First, to the payment of the Company's known debts and liabilities, but if the amount available therefor shall be insufficient, then pro rata on account thereof; and
+7.2.2.1.sec=First, to the payment of the Company's known debts and liabilities, but if the amount available therefor shall be insufficient, then pro rata on account thereof; and
 
-7.2.2.2.sec=(2)   Then, the balance, if any, less such reserves ("Dissolution Reserves") as the Winding-Up Person reasonably determines are necessary or appropriate for anticipated or contingent expenses of the Company, shall be distributed to the Member.
+7.2.2.2.sec=Then, the balance, if any, less such reserves ("Dissolution Reserves") as the Winding-Up Person reasonably determines are necessary or appropriate for anticipated or contingent expenses of the Company, shall be distributed to the Member.
 
 7.2.2.=[Z/ol/s2]
 
-7.2.3.sec=(C)   To the extent the Winding-Up Person subsequently determines Dissolution Reserves (or any part thereof) to be unnecessary for Company expenses, she/he/it shall cause such amounts to be distributed or paid to the Member, or other Persons who would have received the proceeds comprising such Dissolution Reserves under this Section as if such proceeds had not been used to fund Dissolution Reserves.
+7.2.3.sec=To the extent the Winding-Up Person subsequently determines Dissolution Reserves (or any part thereof) to be unnecessary for Company expenses, she/he/it shall cause such amounts to be distributed or paid to the Member, or other Persons who would have received the proceeds comprising such Dissolution Reserves under this Section as if such proceeds had not been used to fund Dissolution Reserves.
 
-7.2.4.sec=(D)	When all of the Company's property and assets have been applied and/or distributed as provided in this Section, the Winding-Up Person shall file articles of termination as provided in the Act and take such other actions as may be necessary to cause the Company to withdraw from all jurisdictions where the Company is then authorized to transact business.  The Winding-Up Person shall not receive any compensation for any services performed pursuant to this Section.
+7.2.4.sec=When all of the Company's property and assets have been applied and/or distributed as provided in this Section, the Winding-Up Person shall file articles of termination as provided in the Act and take such other actions as may be necessary to cause the Company to withdraw from all jurisdictions where the Company is then authorized to transact business.  The Winding-Up Person shall not receive any compensation for any services performed pursuant to this Section.
 
 7.2.1.=[Z/ol-AA/s4]
 
