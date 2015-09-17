@@ -12,14 +12,15 @@ RegisteredOffice.Addr.1,2=111 Main Street, Kansas City, KS 66101
 
 RegisteredAgent.Name.Full=Corporations Compliance Company, Inc.
 
+AByLaws.EffectiveDate.YMD=September 14, 2015
+
 ByLaws.EffectiveDate.YMD=September 15, 2015
 
 Conflict.EffectiveDate.YMD=September 16, 2015
 
-
 Docs=:
 
-Articles.Model.Root=TBD
+Articles.=[NFP/KS/Articles/Form/Articles_01.md]
 
 ByLaws.=[NFP/KS/ByLaws/Form/ByLaws_01.md]
 
