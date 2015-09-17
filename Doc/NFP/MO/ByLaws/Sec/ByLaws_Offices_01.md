@@ -6,6 +6,6 @@ Ti=Offices
 
 2.Ti=Registered Office and Registered Agent
 
-2.sec=The registered office shall be located at {RegisteredOffice.Addr.1,2}, and the name of the initial registered agent at that address is {RegisteredAgent.Name.Full}, unless otherwise established by the board of directors (“Board”, “Directors”, or “Board of Directors”). 
+2.sec=The registered office shall be located at {RegisteredAgent.Addr.1,2}, and the name of the initial registered agent at that address is {RegisteredAgent.Name.Full}, unless otherwise established by the board of directors (“Board”, “Directors”, or “Board of Directors”). 
 
 =[Z/ol/2]

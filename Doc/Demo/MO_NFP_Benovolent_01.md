@@ -2,7 +2,7 @@ Data=:
 
 Corp.Name.Full=Best Practices Benevolence Association
 
-RegisteredOffice.Addr.1,2=111 Main Street, Jefferson City, MO 65101
+RegisteredAgent.Addr.1,2=111 Main Street, Jefferson City, MO 65101
 
 RegisteredAgent.Name.Full=Corporations Compliance Company, Inc.
 

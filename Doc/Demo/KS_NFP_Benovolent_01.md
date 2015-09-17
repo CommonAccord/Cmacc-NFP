@@ -8,7 +8,7 @@ Corp.Addr.Zip=66101
 
 Corp.=[U/at/USA/KS/Kansas_City/Geo]
 
-RegisteredOffice.Addr.1,2=111 Main Street, Kansas City, KS 66101
+RegisteredAgent.Addr.1,2=111 Main Street, Kansas City, KS 66101
 
 RegisteredAgent.Name.Full=Corporations Compliance Company, Inc.
 

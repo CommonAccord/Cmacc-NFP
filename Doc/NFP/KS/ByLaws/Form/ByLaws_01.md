@@ -35,7 +35,7 @@ Doc.Title=BY-LAWS OF<br><span style="text-transform: uppercase">{Corp.Name.Full}
 
 2.2.Ti=Registered Office and Registered Agent
 
-2.2.sec=The registered office shall be located at {RegisteredOffice.Addr.1,2} and the name of the initial resident agent at that address is {RegisteredAgent.Name.Full}, unless otherwise established by the Board of Directors.
+2.2.sec=The registered office shall be located at {RegisteredAgent.Addr.1,2} and the name of the initial resident agent at that address is {RegisteredAgent.Name.Full}, unless otherwise established by the Board of Directors.
 
 2.=[Z/ol/2]
 
