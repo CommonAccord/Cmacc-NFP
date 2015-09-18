@@ -42,13 +42,13 @@ TermCommence.cl=the filing of the Articles of Organization
 
 1.5.Ti=Name and Address of the Member
 
-1.5.sec=The name and address of the member is as follows:<br>{Member.Name,Address}
+1.5.sec=The name and address of the member is as follows:<br>{Member.Name.Full}, {Member.Addr.1,2}
 
 Note=[OPTIONAL]?
 
 1.6.Ti=Name and Address of the Manager
 
-1.6.sec=The name and mailing address of the Manager are as follows:<br>{Manager.Name/Address}
+1.6.sec=The name and mailing address of the Manager are as follows:<br>{Manager.Name.Full}<br>{Member.Addr.1/2}
 
 1.7.Ti=Principal Place of Business
 
@@ -86,7 +86,7 @@ Note=[OPTIONAL]?
 
 3.1.Ti=Distributions of Operating Proceeds
 
-3.1.sec=The Company's Operating Proceeds shall be distributed to the Member at such times as the Member [Manager] shall determine.
+3.1.sec=The Company's Operating Proceeds shall be distributed to the Member at such times as the {Member/Manager} shall determine.
 
 3.=[Z/ol/1]
 
