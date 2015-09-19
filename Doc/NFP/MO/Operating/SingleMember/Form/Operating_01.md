@@ -2,13 +2,7 @@ Doc.Title=OPERATING AGREEMENT <br>OF<br><span style="text-transform:uppercase">{
 				
 0.0.sec=THIS DECLARATION OF OPERATING AGREEMENT is made and entered into as of {EffectiveDate.YMD} by {Member.Name.Full}, as the sole member.
 
-0.1.Ti=RECITALS
-
-0.1.1.sec={Member.Name.Full} desires to organize a limited liability company to engage in the business of {Corp.InTheBusinessOf}, engaging in all activities incident thereto and transacting such other business and activities as may be approved by the {Member}.
-
-0.1.2.sec=This {Agreement} sets forth {Member.Name.Full}'s understanding with respect to the organization and operation of the limited liability company and the scope and conduct of its business.
-
-0.1.90.sec=NOW, THEREFORE, in consideration of the receipt of all of the outstanding interests in the limited liability company, {Member.Name.Full} hereby declares as follows:
+0.1.=[NFP/MO/Operating/SingleMember/Sec/Recite_01.md]
 
 0.1.=[Z/ol-none/s1]
 
@@ -38,52 +32,8 @@ InWitness=IN WITNESS WHEREOF, the undersigned has executed this {Agreement} as o
 
 DocBody={Doc}
 
-Note=Coloring defined terms green:
+=[NFP/MO/Operating/SingleMember/Sec/Defined_Terms_01.md]
 
-
-Act=<font color=green>Act</font>
-
-Affiliate=<font color="green">Affiliate</font>
-
-Affiliates=<font color="green">Affiliates</font>
-
-Agreement=<font color="green">Agreement</font>
-
-Business=<font color=green>Business</font>
-
-Business_Property=<font color="green">Business Property</font>
-
-Code=<font color="green">Code</font>
-
-Company=<font color=green>Company</font>
-
-Dissociation_Event=<font color="green">Dissociation Event</font>
-
-Effective_Date=<font color=green>Effective Date</font>
-
-Extraordinary_Loss=<font color="green">Extraordinary Loss</font>
-
-Extraordinary_Losses=<font color="green">Extraordinary Losses</font>
-
-Liquidation_Event=<font color=green>Liquidation Event</font>
-
-Manager=<font color=green>Manager</font>
-
-Managers=<font color=green>Managers</font>
-
-Member=<font color=green>Member</font>
-
-Members=<font color=green>Members</font>
-
-Misconduct=<font color=green>Misconduct</font>
-
-Operating_Proceeds=<font color="green">Operating Proceeds</font>
-
-Person=<font color="green">Person</font>
-
-Replacement_Event=<font color=green>Replacement Event</font>
-
-Winding-Up_Person=<font color=green>Winding-Up Person</font>
 
 
  
