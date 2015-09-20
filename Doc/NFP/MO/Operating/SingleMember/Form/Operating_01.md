@@ -6,21 +6,23 @@ Doc.Title=OPERATING AGREEMENT <br>OF<br><span style="text-transform:uppercase">{
 
 0.1.=[Z/ol-none/s1]
 
-1.=[NFP/MO/Operating/SingleMember/Sec/Organize_01.md]
+Secs={Organize.Sec}<li>{Capital.Sec}<li>{Distribute.Sec}<li>{Allocate.Sec}<li>{Account.Sec}<li>{PowerRightDuty.Sec}<li>{Dissolve.Sec}<li>{Misc.Sec}
 
-2.=[NFP/MO/Operating/SingleMember/Sec/Capital_01.md]
+Organize.=[NFP/MO/Operating/SingleMember/Sec/Organize_01.md]
 
-3.=[NFP/MO/Operating/SingleMember/Sec/Distribute_01.md]
+Capital.=[NFP/MO/Operating/SingleMember/Sec/Capital_01.md]
 
-4.=[NFP/MO/Operating/SingleMember/Sec/Allocate_01.md]
+Distribute.=[NFP/MO/Operating/SingleMember/Sec/Distribute_01.md]
 
-5.=[NFP/MO/Operating/SingleMember/Sec/Account_01.md]
+Allocate.=[NFP/MO/Operating/SingleMember/Sec/Allocate_01.md]
 
-6.=[NFP/MO/Operating/SingleMember/Sec/PowerRightDuty_01.md]
+Account.=[NFP/MO/Operating/SingleMember/Sec/Account_01.md]
 
-7.=[NFP/MO/Operating/SingleMember/Sec/Dissolve_01.md]
+PowerRightDuty.=[NFP/MO/Operating/SingleMember/Sec/PowerRightDuty_01.md]
 
-8.=[NFP/MO/Operating/SingleMember/Sec/Misc_01.md]
+Dissolve.=[NFP/MO/Operating/SingleMember/Sec/Dissolve_01.md]
+
+Misc.=[NFP/MO/Operating/SingleMember/Sec/Misc_01.md]
 
 Note=Guessed that the role is "Incorporator"
 
