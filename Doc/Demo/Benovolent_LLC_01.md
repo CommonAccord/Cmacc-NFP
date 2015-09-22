@@ -1,5 +1,10 @@
 MessageToUser=
 
+
+Clinic.=[Demo/ID_UMKC_ELSC.md]
+
+Client.=[U/id/andrea_ang] 
+
 EffectiveDate.YMD=September 17, 2015
 
 Member.=[U/id/andrea_ang]
@@ -25,6 +30,8 @@ WAS=2015/09/17 : 1442506633
 
 =[Demo/MO_NFP_Benovolent_01.md]
 
-Model.Root={Operating.Model.Root}
+Model.Root=<ol><li>Letter:<br>{1023Letter.Model.Root}<li>Operating Agreement:<br>{Operating.Model.Root}
+
+1023Letter.=[NFP/MO/IRS1023CoverLetter/Form/IRS1023CoverLetter_01.md]
 
 Operating.=[NFP/MO/Operating/SingleMember/Form/Operating_01.md]
