@@ -16,9 +16,13 @@ Ti=Board of Directors
 
 Alt4.sec=<font color="red">Two options are available here - in format Alt-X.sec.</font>
 
-4.Alt1.sec=<font color="red">Directors shall be allowed to receive reasonable compensation equal to that of other directors in similarly situated non-profits.</font>
+Note=in the document, this section is 3.4.sec:
 
-4.Alt2.sec=<font color="red">Directors shall serve without compensation for services as a member of the Board, except that by resolution of the Board, Directors may be reimbursed for expenses incurred on behalf of the Corporation.</font>
+4.SecName=3.4
+
+4.Alt1.sec=Directors shall be allowed to receive reasonable compensation equal to that of other directors in similarly situated non-profits.
+
+4.Alt2.sec=Directors shall serve without compensation for services as a member of the Board, except that by resolution of the Board, Directors may be reimbursed for expenses incurred on behalf of the Corporation.
 
 4.=[Z/Alt/2]
 
@@ -51,11 +55,13 @@ Alt4.sec=<font color="red">Two options are available here - in format Alt-X.sec.
 
 8.1.sec=Vacancies on the Board of Directors shall exist (1) on the death, resignation, disqualification or removal of any Director, and (2) whenever the number of authorized Directors is increased.  Any Director may resign effective upon giving written notice to the President, the Secretary, or the Board of Directors, unless the notice specifies a later time for the effectiveness of such resignation.
 
-Alt8.2.sec=<font color="red">Two options are available here - in format Alt-X.sec.</font>
+Alt8.2.sec=Two options are available here - in format Alt-X.sec.
 
-8.2.Alt1.sec=<font color="red">Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled by the President of the Board of Directors, until the next regular meeting of the Board of Directors, at which time the Director shall be elected by the Board.  A Director elected to fill a vacancy on the Board shall serve until the expiration of the term assumed or until his or her death, resignation, or removal from the Board of Directors. </font>
+8.2.SecName=3.8.2
 
-8.2.Alt2.sec=<font color="red">Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled at a special election held at the beginning of the next scheduled meeting.</font>
+8.2.Alt1.sec=Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled by the President of the Board of Directors, until the next regular meeting of the Board of Directors, at which time the Director shall be elected by the Board.  A Director elected to fill a vacancy on the Board shall serve until the expiration of the term assumed or until his or her death, resignation, or removal from the Board of Directors.
+
+8.2.Alt2.sec=Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled at a special election held at the beginning of the next scheduled meeting.
 
 8.2.=[Z/Alt/2]
 
