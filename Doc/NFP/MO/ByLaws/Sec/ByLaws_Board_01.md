@@ -14,8 +14,15 @@ Ti=Board of Directors
 
 4.Ti=Compensation
 
-4.sec=Directors shall serve without compensation for services as a member of the Board, except that by resolution of the Board, Directors may be reimbursed for expenses incurred on behalf of the Corporation.
-	
+Alt4.sec=<font color="red">Two options are available here - in format Alt-X.sec.</font>
+
+4.Alt1.sec=<font color="red">Directors shall be allowed to receive reasonable compensation equal to that of other directors in similarly situated non-profits.</font>
+
+4.Alt2.sec=<font color="red">Directors shall serve without compensation for services as a member of the Board, except that by resolution of the Board, Directors may be reimbursed for expenses incurred on behalf of the Corporation.</font>
+
+4.=[Z/Alt/2]
+
+
 5.Ti=Responsibility
 
 5.0.sec=The responsibilities of the Board of Directors shall be:
@@ -44,7 +51,13 @@ Ti=Board of Directors
 
 8.1.sec=Vacancies on the Board of Directors shall exist (1) on the death, resignation, disqualification or removal of any Director, and (2) whenever the number of authorized Directors is increased.  Any Director may resign effective upon giving written notice to the President, the Secretary, or the Board of Directors, unless the notice specifies a later time for the effectiveness of such resignation.
 
-8.2.sec=Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled by the President of the Board of Directors, until the next regular meeting of the Board of Directors, at which time the Director shall be elected by the Board.  A Director elected to fill a vacancy on the Board shall serve until the expiration of the term assumed or until his or her death, resignation, or removal from the Board of Directors.  [STUDENTS:  CONSIDER REDUCING THE PRESIDENT’S POWERS TO APPOINT NEW DIRECTORS, OR HAVE THE DIRECTOR ELECTED BEFORE BEING ACCEPTED AT THE MEETING.]
+Alt8.2.sec=<font color="red">Two options are available here - in format Alt-X.sec.</font>
+
+8.2.Alt1.sec=<font color="red">Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled by the President of the Board of Directors, until the next regular meeting of the Board of Directors, at which time the Director shall be elected by the Board.  A Director elected to fill a vacancy on the Board shall serve until the expiration of the term assumed or until his or her death, resignation, or removal from the Board of Directors. </font>
+
+8.2.Alt2.sec=<font color="red">Unless otherwise prohibited by the Articles of Incorporation, these Bylaws or provisions of law, vacancies on the Board may be filled at a special election held at the beginning of the next scheduled meeting.</font>
+
+8.2.=[Z/Alt/2]
 
 8.=[Z/ol-none/s2]
 
@@ -68,4 +81,4 @@ Ti=Board of Directors
 
 13.sec=The Board of Directors may adopt a resolution authorizing the purchase and maintenance of insurance on behalf of any agent of the Corporation (including a Director, officer, employee or other agent of the Corporation) against liabilities asserted against or incurred by the agent in such capacity or arising out of the agent’s status as such, whether or not the Corporation would have the power to indemnify the agent against such liability under the Articles of Incorporation, these Bylaws or provisions of law.
 
-=[Z/ol/13]
+=[Z/ol/13]  
